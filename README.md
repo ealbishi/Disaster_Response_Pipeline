@@ -7,21 +7,21 @@ The goal of this project to develop a model and platform to predict which catego
 
 The project has three sections:
 
--Data Processing, ETL Pipeline model to extract data from source, clean data and save them into database.
--Machine Learning Pipeline model to train and evaluate the applied model.
--Web App to visualize model results.
+* Data Processing, ETL Pipeline model to extract data from source, clean data and save them into database.
+* Machine Learning Pipeline model to train and evaluate the applied model.
+* Web App to visualize model results.
 
 
 ## Installation
-*Python standard configuration
-*Python 3.5+ 
-*Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-*Natural Language Process Libraries: NLTK
-*SQLlite Database Libraqries: SQLalchemy
-*Web App and Data Visualization: Flask, Plotly
-*The following packages need to be installed for nltk:
-*punkt
-*wordnet
+* Python standard configuration
+* Python 3.5+ 
+* Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+* Natural Language Process Libraries: NLTK
+* SQLlite Database Libraqries: SQLalchemy
+* Web App and Data Visualization: Flask, Plotly
+* The following packages need to be installed for nltk:
+* punkt
+* wordnet
 
 ## Instructions:
 Run the following commands in the project's root directory to set up your database and model.
