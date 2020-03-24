@@ -13,15 +13,15 @@ The project has three sections:
 
 
 ## Installation
-Python standard configuration
-Python 3.5+ 
-Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
-Natural Language Process Libraries: NLTK
-SQLlite Database Libraqries: SQLalchemy
-Web App and Data Visualization: Flask, Plotly
-The following packages need to be installed for nltk:
-punkt
-wordnet
+*Python standard configuration
+*Python 3.5+ 
+*Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
+*Natural Language Process Libraries: NLTK
+*SQLlite Database Libraqries: SQLalchemy
+*Web App and Data Visualization: Flask, Plotly
+*The following packages need to be installed for nltk:
+*punkt
+*wordnet
 
 ## Instructions:
 Run the following commands in the project's root directory to set up your database and model.
